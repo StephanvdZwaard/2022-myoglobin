@@ -41,12 +41,9 @@
     # ------------------------------------------------------   
     
       source('scripts/compare_groups.R')
-      source('scripts/plot_fig1.R')
       source('scripts/R1_plot_fig1.R')
-      source('scripts/plot_fig2.R')
       source('scripts/R1_plot_fig2.R')
-      source('scripts/make_table1.R')
-
+      source('scripts/R1_make_table1.R')
     
 # ------------------------------------------------------------------------------------------------------------------------ #
 #                                                     Data collection                                                      #
