@@ -12,11 +12,11 @@ Myoglobin is essential for oxygen transport to the muscle fibers. However, measu
 
 ### Keywords 
 
-Oxygen transport, Muscle biopsy, Muscle fiber type, Cycling
+Oxygen transport, Muscle biopsy, Muscle fiber type, Cycling, Myonuclei, Satellite cells
 
 ### Full article 
 
-Can be accessed here: [under review]   
+Can be accessed here: https://doi.org/10.1007/s00421-023-05161-z 
 
  <hr>
  
@@ -49,7 +49,8 @@ The main script is used to run the entire analysis used to obtain the results in
  **Version:**      1.0                                                                                                        
  **R.version:**    4.2.2 (2022-10-31)                                                                                         
                                                                                                                           
- **Publication:**  ...    
+ **Publication:**  Jacobs et al. 2023. Low myoglobin concentration in skeletal muscle of elite cyclists is associated with low mRNA expression levels
+ **doi**:              https://doi.org/10.1007/s00421-023-05161-z    
  <hr>      
  
 <h3> RStudio project </h3>

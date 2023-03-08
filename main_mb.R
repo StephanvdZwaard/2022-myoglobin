@@ -8,8 +8,9 @@
 # Version:      1.0                                                                                                        #
 # R.version:    4.2.2 (2022-10-31) 'Innocent and Trusting'                                                                 #
 #                                                                                                                          #
-# Publication:  TBD                                                                                                        #
-# DOI:          TBD                                                                                                        #
+# Publication:  Jacobs et al. 2023. Low myoglobin concentration in skeletal muscle of elite cyclists is associated with    #
+#               low mRNA expression levels                                                                                 #
+# DOI:          https://doi.org/10.1007/s00421-023-05161-z                                                                 #
 #                                                                                                                          #
 # ------------------------------------------------------------------------------------------------------------------------ #
 
